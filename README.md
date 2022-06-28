@@ -18,7 +18,7 @@ will print out estimated time on how long they need to work for.
 
 ## Is This a Finished Product?
 
-No! We plan to also add a functionality on adding a to-do list, a timer, and a better version of our homework calculator.
+No! We plan to also add a functionality on adding a to-do list, a timer, and a better version of our homework time calculator.
 
 ## How to Download
 
