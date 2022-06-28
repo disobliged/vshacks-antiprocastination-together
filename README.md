@@ -1,3 +1,3 @@
 # vshacks-antiprocastination
 
-Welcome to our chrome extension to stop procastination.
+Welcome to our terminal app  to stop procastination.
