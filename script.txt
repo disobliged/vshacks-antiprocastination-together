@@ -1,0 +1,33 @@
+K-Krish
+J-Jaeden
+**-editor notes
+
+*show team logo here*
+J Hello, welcome to anti-procrastinate together's homework time calculator!
+K As students, we struggle with procrastination and we want to help not only us, but others who also face this problem on a regular basis.
+J To fix this, we made a calculator to help calculate how long we need to study
+K We also wanted to make it clean and simple and we chose to make a text-based terminal app.
+
+*show code demo*
+K we found the average time to do our work to be as follows
+
+1.5 hrs for homework
+1 hrs for quiz review
+1.5 hrs for test review
+3 hrs for exam review
+and 2 hrs for project work
+
+J To stop distractions, our terminal is clean and simple.
+
+*demo the code*
+Note-do whatever combination you want, honestly we just need to make sure the math adds up
+K Lets say we have [insert combination of work, for example: _ pieces of homework and _ tests]
+K now lets put it into the calculator [narrate as you type]
+*check the math adds up and repeat the step above at least 2 more times.
+
+*Stay on the page or show the logo again, doesnt matter tbh*
+J This is only the start of our project, we will continue to work on this after the hackathon ends.
+K We learned a lot from this project, mainly how to manage our time and cut items that are uneccessary
+J We initially wanted to make a homework list and a timer for work, however we did not go around to doing that, so we only used our time prediction module.
+K Despite these losses, we learned how to do better next time and we also helped solve the issue on how might we improve students' lives.
+J We hope you enjoyed and thanks for watching
